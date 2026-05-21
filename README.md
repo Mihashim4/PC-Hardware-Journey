@@ -137,3 +137,8 @@ Formatting the wrong drive may result in permanent data loss.
 
 
 ---
+## 🎬 Related Video
+
+[Watch the Video](https://youtu.be/eTOuDSbe9-w?si=OGK9eoejmoF5Dr6o)
+
+---
