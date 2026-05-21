@@ -60,7 +60,7 @@ Windows provides built-in tools to format a drive using Command Prompt.
 
 Open Command Prompt as Administrator and type:
 
-```bash id="b8v7wu"
+```bash
 diskpart
 ```
 Then follow these commands:
