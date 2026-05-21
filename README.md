@@ -158,45 +158,18 @@ Always create a backup before formatting the drive.
 
 ## 🖥️ Formatting the HDD Using CMD / Terminal
 
-Windows provides built-in tools to format a drive using Command Prompt.
+Open Command Prompt as Administrator and run:
 
-### 🔹 Method 1 – Using DiskPart (CMD)
-
-Open Command Prompt as Administrator and type:
-
-```bash id="b8v7wu"
+```cmd
 diskpart
-
-Then follow these commands:
-
 list disk
-
-Find the HDD number and select it:
-
 select disk X
-
-Replace X with the correct disk number.
-
-Clean the drive:
-
 clean
-
-Create a new partition:
-
 create partition primary
-
-Format the drive:
-
 format fs=ntfs quick
-
-Assign a drive letter:
-
 assign
-
-Exit DiskPart:
-
 exit
-
+_____________________________________________________
 
 ---
 
