@@ -1,7 +1,10 @@
 ---
 # PC Hardware Journey
 ---
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=HDD+%26+Transfer+&+Storage+Upgrade;What+Was+Done;Topics+Covered;Pupose;Related+Video; Additional+Observation" />
+</p>
+---
 ## 🔧 HDD Transfer & Storage Upgrade
 
 This project demonstrates transferring a hard disk drive (HDD) from an older computer setup to another system in order to increase storage capacity.
@@ -20,7 +23,7 @@ _____________________________________________________
 
 - Computer Hardware Basics
 - HDD Handling
-- SATA Connections
+- SATA Connections 
 - Storage Expansion
 - PC Upgrade Process
 
