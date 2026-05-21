@@ -50,10 +50,9 @@ In this project, I performed an HDD replacement/upgrade on my PC and documented 
 
 ### 🔹 Step 3 – Locate the HDD
 Find the existing hard drive mounted inside the drive bay.
+<img width="2436" height="1080" alt="1000078410" src="https://github.com/user-attachments/assets/59fc90dc-7fbc-4ab1-8f60-825c41434923" />
 
--<img width="2436" height="1080" alt="1000078412" src="https://github.com/user-attachments/assets/6adc111d-88e4-4f50-82c9-0bae46fbc05b" />
-<img width="2436" height="1080" alt="1000078411" src="https://github.com/user-attachments/assets/bc0c393f-f3b8-4cc0-a63c-34f588f527c5" />
-<img width="2436" height="1080" alt="1000078410" src="https://github.com/user-attachments/assets/958101b7-0471-48a8-a3c0-27a2c6829b78" />
+
 --
 
 ### 🔹 Step 4 – Disconnect Cables
@@ -73,6 +72,8 @@ Remove:
 - Insert the new HDD into the bay
 - Secure it with screws
 
+<img width="2436" height="1080" alt="1000078411" src="https://github.com/user-attachments/assets/340c4457-cc7e-4f0a-8e9f-0d9e516b4dbc" />
+
 ---
 
 ### 🔹 Step 7 – Connect the Cables
@@ -91,6 +92,7 @@ Reconnect:
 ### 🔹 Step 9 – Boot & Verify
 - Power on the PC
 - Check BIOS or Operating System detection
+<img width="2436" height="1080" alt="1000078412" src="https://github.com/user-attachments/assets/1ea4eaf0-b7cb-4a79-9ccd-7e5360310df7" />
 
 ---
 
@@ -98,6 +100,8 @@ Reconnect:
 
 The HDD used in this project already had Windows installed on it from another system.  
 Because of that, the PC needed some time to properly recognize and configure the drive after the swap.
+
+<img width="2436" height="1080" alt="1000078422" src="https://github.com/user-attachments/assets/22186e44-13c0-417f-80a3-057b8664ba7e" />
 
 During the first boot, the system showed minor glitches and delays while:
 - Detecting the hardware
