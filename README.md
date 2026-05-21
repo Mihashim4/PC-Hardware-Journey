@@ -51,7 +51,10 @@ In this project, I performed an HDD replacement/upgrade on my PC and documented 
 ### 🔹 Step 3 – Locate the HDD
 Find the existing hard drive mounted inside the drive bay.
 
----
+-<img width="2436" height="1080" alt="1000078412" src="https://github.com/user-attachments/assets/6adc111d-88e4-4f50-82c9-0bae46fbc05b" />
+<img width="2436" height="1080" alt="1000078411" src="https://github.com/user-attachments/assets/bc0c393f-f3b8-4cc0-a63c-34f588f527c5" />
+<img width="2436" height="1080" alt="1000078410" src="https://github.com/user-attachments/assets/958101b7-0471-48a8-a3c0-27a2c6829b78" />
+--
 
 ### 🔹 Step 4 – Disconnect Cables
 Remove:
@@ -230,8 +233,34 @@ Formatting the wrong drive may result in permanent data loss.
 
 
 ---
-## 🎬 Related Video
 
-[Watch the Video](https://youtu.be/eTOuDSbe9-w?si=OGK9eoejmoF5Dr6o)
+## 🎥 Video Demonstration
+
+This project is also demonstrated through a Tamil tech video showing the HDD transfer and testing process.
+
+▶️ Watch here:
+https://youtu.be/eTOuDSbe9-w
+
+---
+## 📚 What I Learned
+
+Through this project, I learned:
+
+- Basic HDD handling
+- Storage device connections
+- Windows boot behavior
+- SATA cable usage
+- Practical PC troubleshooting
+- Hardware experimentation
+
+---
+## 🚀 Future Plans
+
+- SSD upgrade experiments
+- Linux installation projects
+- PC cleaning and maintenance
+- Multi-drive testing
+- Hardware benchmarking
+
 
 ---
