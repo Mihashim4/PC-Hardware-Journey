@@ -274,7 +274,7 @@ Through this project, I learned:
 
 ## 👨‍💻 Author
 
-Mihashim
+Mohamed Imran Hashim 
 
 Tamil tech enthusiast, Linux learner and future AI & DS student.
 
