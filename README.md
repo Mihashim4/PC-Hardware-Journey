@@ -270,5 +270,12 @@ Through this project, I learned:
 - Multi-drive testing
 - Hardware benchmarking
 
+---
+
+## 👨‍💻 Author
+
+Mihashim
+
+Tamil tech enthusiast, Linux learner and future AI & DS student.
 
 ---
