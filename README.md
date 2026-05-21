@@ -1,3 +1,96 @@
+# 💻 PC Hardware Journey – HDD Swap Upgrade
+
+Welcome to my PC Hardware Journey project!  
+This repository showcases the process of upgrading and swapping a Hard Disk Drive (HDD) in a desktop PC setup.
+
+This project is part of my learning experience in computer hardware, PC maintenance, and system upgrades.
+
+---
+
+## 📖 About The Project
+
+In this project, I performed an HDD replacement/upgrade on my PC and documented the complete process.
+
+### 🎯 Goals of This Project
+
+- Learn PC hardware handling
+- Understand HDD installation
+- Practice safe computer maintenance
+- Improve storage performance and management
+- Explore internal PC components
+
+---
+
+## 🛠️ Hardware & Tools Used
+
+| Hardware / Tool | Purpose |
+|-----------------|---------|
+| SATA HDD | Storage Device |
+| SATA Data Cable | Data Transfer |
+| SATA Power Cable | Power Supply |
+| Screwdriver | Cabinet & HDD Installation |
+| Desktop PC | Testing Environment |
+
+---
+
+## ⚙️ HDD Swap Process
+
+### 🔹 Step 1 – Shutdown the PC
+- Turn off the computer completely
+- Disconnect the power cable
+- Press the power button for a few seconds
+
+---
+
+### 🔹 Step 2 – Open the Cabinet
+- Remove the side panel screws
+- Carefully open the cabinet
+
+---
+
+### 🔹 Step 3 – Locate the HDD
+Find the existing hard drive mounted inside the drive bay.
+
+---
+
+### 🔹 Step 4 – Disconnect Cables
+Remove:
+- SATA Data Cable
+- SATA Power Cable
+
+---
+
+### 🔹 Step 5 – Remove the Old HDD
+- Unscrew the HDD
+- Slide it out carefully
+
+---
+
+### 🔹 Step 6 – Install the New HDD
+- Insert the new HDD into the bay
+- Secure it with screws
+
+---
+
+### 🔹 Step 7 – Connect the Cables
+Reconnect:
+- SATA Data Cable
+- SATA Power Cable
+
+---
+
+### 🔹 Step 8 – Close the Cabinet
+- Reattach the side panel
+- Tighten the screws properly
+
+---
+
+### 🔹 Step 9 – Boot & Verify
+- Power on the PC
+- Check BIOS or Operating System detection
+
+---
+
 ## ⚠️ Important Note About the HDD Swap
 
 The HDD used in this project already had Windows installed on it from another system.  
