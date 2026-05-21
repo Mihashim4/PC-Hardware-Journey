@@ -1,5 +1,3 @@
----
-
 ## ⚠️ Important Note About the HDD Swap
 
 The HDD used in this project already had Windows installed on it from another system.  
