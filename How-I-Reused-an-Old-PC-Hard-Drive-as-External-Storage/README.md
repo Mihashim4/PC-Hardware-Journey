@@ -482,4 +482,5 @@ If this project helped you understand how to reuse an old hard drive, consider:
 📺 Subscribing to the channel
 💬 Sharing your experience with old PC hardware
 
-&copy Hashim
+
+© Hashim
