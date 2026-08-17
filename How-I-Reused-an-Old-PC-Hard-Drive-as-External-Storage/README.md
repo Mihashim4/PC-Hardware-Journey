@@ -1,10 +1,10 @@
-### 💾 How I Reused an Old PC Hard Drive as External Storage
+## 💾 How I Reused an Old PC Hard Drive as External Storage
 
 > A practical project showing how I connected an old PC SATA hard drive to a laptop, backed up and organized the files, cleaned the drive using Windows Command Prompt / DiskPart, and prepared it for reuse as external storage.
 
 ---
 
-### 📌 About This Project
+## 📌 About This Project
 
 In this project, I took an old **SATA hard drive from a PC** and connected it to my laptop using a **SATA-to-USB adapter**.
 
@@ -16,7 +16,7 @@ This project combines practical computer hardware work with basic Windows storag
 
 ---
 
-### 🎯 Objectives
+## 🎯 Objectives
 
 The main objectives of this project were:
 
@@ -32,9 +32,9 @@ The main objectives of this project were:
 
 ---
 
-### 🛠️ Hardware Used
+## 🛠️ Hardware Used
 
-## 1. 💽 Old PC SATA Hard Drive
+### 1. 💽 Old PC SATA Hard Drive
 
 The main storage device used in this project was an old internal SATA hard drive removed from a PC.
 
@@ -45,7 +45,7 @@ The main storage device used in this project was an old internal SATA hard drive
 
 ---
 
-## 2. 🔌 SATA-to-USB Adapter
+### 2. 🔌 SATA-to-USB Adapter
 
 I used a **Sounce USB 3.0 to SATA III Hard Disk Connector** to connect the old SATA hard drive to my laptop.
 
@@ -60,7 +60,7 @@ I used a **Sounce USB 3.0 to SATA III Hard Disk Connector** to connect the old S
 - 12V 2A power supply
 - Designed for connecting SATA storage devices through USB
 
-### 🛒 Product Link
+## 🛒 Product Link
 
 **Sounce SATA-to-USB Adapter — Amazon India**
 <img width="1875" height="1057" alt="Screenshot 2026-08-16 170632" src="https://github.com/user-attachments/assets/12941d41-a084-4975-aa39-cefae6efa607" />
@@ -71,7 +71,7 @@ https://www.amazon.in/Sounce-Connector-Optical-Adapter-External/dp/B0D9SX7NGF
 
 ---
 
-### 3. 📱 OTG Adapter
+## 3. 📱 OTG Adapter
 
 An **OTG adapter** was also used to demonstrate connecting the storage setup to a compatible mobile phone/tablet.
 
@@ -81,7 +81,7 @@ No specific OTG product details or purchase link are included because the OTG ad
 
 ---
 
-### 4. 💻 Laptop
+## 4. 💻 Laptop
 
 The laptop was used as the main computer for:
 
@@ -96,7 +96,7 @@ The laptop was used as the main computer for:
 
 ---
 
-### 🔌 Connection Setup
+## 🔌 Connection Setup
 
 The primary connection used in this project was:
 
@@ -111,7 +111,7 @@ SATA-to-USB Adapter
        └──────── 12V Power ──────► Power Adapter
 ```
 
-###  For the mobile/tablet demonstration:
+##  For the mobile/tablet demonstration:
 ```
 SATA HDD
    │
@@ -157,7 +157,7 @@ Clean the Drive
      ↓
 Prepare HDD for Reuse
 ```
-# 1️⃣ Connecting the Old Hard Drive
+### 1️⃣ Connecting the Old Hard Drive
 
 The old SATA hard drive was connected to the SATA-to-USB adapter.
 
@@ -167,7 +167,7 @@ For a desktop 3.5-inch HDD, the external power adapter is also connected to prov
 
 Once everything was connected, Windows could detect the drive as an external storage device.
 
-# 2️⃣ Accessing the Old Files
+### 2️⃣ Accessing the Old Files
 
 After Windows detected the HDD, I opened File Explorer and inspected the contents of the drive.
 
@@ -179,7 +179,7 @@ The purpose of this step was to determine:
 - Which data was no longer required
 - How the existing data could be organized
 
-# 3️⃣ Organizing the Data
+### 3️⃣ Organizing the Data
 
 Before cleaning the drive, important files were copied and organized into separate folders.
 
@@ -199,7 +199,7 @@ Backup
 
 The actual folder structure can be modified according to the type of data stored on the drive.
 
-# 4️⃣ Backing Up Important Files
+### 4️⃣ Backing Up Important Files
 
 Before performing any destructive disk operation, important files should be copied to another storage device.
 
@@ -214,7 +214,7 @@ The backup should be checked before deleting or formatting anything.
 
 ⚠️ A backup should not be considered complete until important files have been verified.
 
-# 5️⃣ Cleaning the Hard Drive
+### 5️⃣ Cleaning the Hard Drive
  
 After the required data had been backed up, the old HDD could be cleaned.
 
@@ -334,10 +334,10 @@ A 3.5-inch desktop HDD generally requires external power.
 
 Therefore, the phone or tablet should not be expected to power a 3.5-inch HDD directly through its USB port.
 
-### 🧰 Software Used
+## 🧰 Software Used
 
 
-## 🪟 Windows File Explorer
+### 🪟 Windows File Explorer
 
 Used for:
 
@@ -348,11 +348,11 @@ Used for:
 - Managing storage
 
 
-##⌨️ Command Prompt
+### ⌨️ Command Prompt
 
 Used to access Windows command-line tools.
 
-## 💽 DiskPart
+### 💽 DiskPart
 
 Used for disk and partition management.
 
@@ -360,31 +360,31 @@ Used for disk and partition management.
 
 This project helped me understand several practical concepts related to computer hardware and storage management.
 
-## Hardware
+### Hardware
 - SATA interfaces
 - Internal vs external storage
 - SATA-to-USB adapters
 - HDD power requirements
 - USB connectivity
 - External storage
-## Windows
+### Windows
 - File Explorer
 - Command Prompt
 - DiskPart
 - Disk identification
 - Partition management
-## Data Management
+### Data Management
 - Data backup
 - File organization
 - Backup verification
 - Storage cleanup
 - Reusing old hardware
-## Mobile Connectivity
+### Mobile Connectivity
 - USB OTG
 - External storage on compatible mobile devices
 - Power limitations when connecting HDDs to mobile devices
 
-### ♻️ Why Reuse an Old Hard Drive?
+## ♻️ Why Reuse an Old Hard Drive?
 
 An old hard drive does not necessarily need to become electronic waste.
 
@@ -399,7 +399,7 @@ If the HDD is still functioning properly, it can potentially be reused for:
 
 However, an old mechanical HDD should not be treated as the only copy of important data, especially if the drive has been used for many years.
 
-### ⚠️ Safety & Data-Loss Warning
+# ⚠️ Safety & Data-Loss Warning
 
 This project involves potentially destructive disk-management operations.
 
@@ -424,13 +424,13 @@ Before using DiskPart:
 
 This GitHub project is based on my video demonstration.
 
-# ▶️ How I Reused an Old PC Hard Drive as External Storage
+#### ▶️ How I Reused an Old PC Hard Drive as External Storage
 
 Watch the full video:
 
 [https://youtu.be/hDeX6waJqVA]Youtube
 
-### 🔗 Project Links
+## 🔗 Project Links
 
 | Resource               | Link                                                                                                                                                           |
 | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -438,7 +438,7 @@ Watch the full video:
 | 🔌 SATA-to-USB Adapter | [https://www.amazon.in/Sounce-Connector-Optical-Adapter-External/dp/B0D9SX7NGF](https://www.amazon.in/Sounce-Connector-Optical-Adapter-External/dp/B0D9SX7NGF) |
 | 💻 GitHub Repository   | This repository                                                                                                                                                |
 
-### 📊 Project Summary
+## 📊 Project Summary
 | Category             | Details                             |
 | -------------------- | ----------------------------------- |
 | 💽 Storage Device    | SATA HDD                            |
@@ -453,7 +453,7 @@ Watch the full video:
 | 🎯 Main Goal         | Backup, organize, clean & reuse HDD |
 
 
-### 🚀 Final Result
+## 🚀 Final Result
 
 The old PC hard drive was successfully connected to the laptop as an external storage device.
 
